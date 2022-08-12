@@ -2,7 +2,7 @@ import requests
 from werkzeug.wrappers import response
 
 # Por medio de esta api obtenos la informacion de la pelicula que queremos mostrar
-API_KEY = "648fc65532da2de73565a9023cdad91e"
+API_KEY = ""
 
 
 class ApiMovie:
