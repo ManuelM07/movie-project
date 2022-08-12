@@ -4,7 +4,7 @@ from movie import db, Movie, app
 from form import RateMovieForm, AddMovieForm
 from api_movie import ApiMovie
 
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = ''
 Bootstrap(app)
 
 
